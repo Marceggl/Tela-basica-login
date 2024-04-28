@@ -11,6 +11,8 @@ Ao entrar no app, há um botão para fazer logout, que irá destruir as telas e 
 
 # utilização Tkinter
 
+![alt text](imagens/image.png)
+
 Para utilizar a biblioteca tkinter basta realizar o import no começo do código, ela já vem com o Python
 
 ```
@@ -20,6 +22,8 @@ from tkinter import ttk
 ```
 
 # utilização CustomTkinter
+
+![alt text](imagens/image-1.png)
 
 Para utilizar esta biblioteca se faz necessário fazer a instalação:
 
