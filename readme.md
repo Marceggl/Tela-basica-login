@@ -5,6 +5,10 @@ As bibliotecas utilizadas neste projeto foram:
 - tkinter
 - custom tkinter
 
+Em ambos os códigos assim que a autenticação é realizada, a tela de login é destruida para não consumir RAM de maneira desnecessária.
+
+Ao entrar no app, há um botão para fazer logout, que irá destruir as telas e reecriar a tela de login
+
 # utilização Tkinter
 
 Para utilizar a biblioteca tkinter basta realizar o import no começo do código, ela já vem com o Python
